@@ -1,2 +1,3 @@
 # hello-world
-Learning how to use GitHub :)
+GitHub here I come :)
+Amateur programmer getting started with GitHub!!
